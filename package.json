@@ -1,0 +1,58 @@
+{
+  "name": "generator-dss-email",
+  "description": "Yeoman generator that provides HTML boilerplate and cross client pitfall sniffing",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alieneclectic/generator-dss-email",
+  "author": {
+    "name": "Jason English"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alieneclectic/generator-dss-email"
+  },
+  "bugs": {
+    "url": "https://github.com/alieneclectic/generator-dss-email/issues",
+    "email" : "jason.english@mccann.com"
+  },
+  "license": "MIT",
+  "main": "app/index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app"
+  ],
+  "dependencies": {
+    "yeoman-generator": "~0.16.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "email",
+    "html",
+    "premailer"
+  ],
+  "_id": "generator-dss-email@0.0.1",
+  
+  "_from": "generator-dss-email@",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "alieneclectic",
+    "email": "jason.english@mccann.com"
+  },
+  "maintainers": [
+    {
+      "name": "JasonEnglish",
+      "email": "jason.english@mccann.com"
+    }
+  ],
+  "directories": {}
+}
