@@ -1,7 +1,7 @@
 {
   "name": "generator-dss-email",
   "description": "Yeoman generator that provides HTML boilerplate and cross client pitfall sniffing",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/alieneclectic/generator-dss-email",
   "author": {
     "name": "Jason English"
