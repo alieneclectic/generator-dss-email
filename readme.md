@@ -1,6 +1,7 @@
 # DSS Email generator
 
 > [Yeoman](http:/yeoman.io) generator to help ease the development of HTML emails.
+> Adds email pitfall hinting on top of [generator-email](https://www.npmjs.org/package/generator-email)
 
 
 ## Features
